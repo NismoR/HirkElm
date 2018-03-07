@@ -7,8 +7,9 @@ ex2 = {'a': 0.25, 'b': 0.25, 'c': 0.2, 'd': 0.15, 'e': 0.15}
 ex3 = {'a': 0.5, 'b': 0.3, 'c': 0.15, 'd': 0.05} #Veszpremi konyvbol 2.3 pelda
 ex4 = {'a': 0.3, 'b': 0.19, 'c': 0.16, 'd': 0.03, 'e': 0.12, 'f': 0.11, 'g': 0.09}
 ex5 = {'a': 0.7, 'b': 0.1, 'c': 0.15, 'd': 0.03, 'e': 0.02}
+ex6 = {'a': 0.5, 'b': 0.25, 'c': 0.125, 'd': 0.0625, 'e': 0.03125, 'f': 0.03125}  #ZH pelda
 
-def_dict = ex4.copy()   # Teszt szett kiválasztása
+def_dict = ex6.copy()   # Teszt szett kiválasztása
 N=2                     # Forráskiterjesztés száma (ne emeld 4 fölé)
 
 
